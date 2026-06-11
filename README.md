@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Personal Finance Manager
 
 A console-based Personal Finance Management System developed in C++ that helps users track expenses, organize spending into categories, and analyze financial habits. The application stores data using JSON files and provides an interactive command-line interface for managing personal finances efficiently.
@@ -161,3 +162,9 @@ https://github.com/Rakshita68
 
 LinkedIn:
 https://linkedin.com/in/rakshitamanjunath
+=======
+# Smart-Personal-Finance-Manager
+Smart Personal Finance Manager is designed to help users record and monitor their daily expenses. Users can categorize expenses, view spending history, search expenses by category, generate summaries, and analyze their spending patterns.
+
+The project demonstrates the use of Object-Oriented Programming (OOP), file handling, JSON data storage, and command-line application development using C++.
+>>>>>>> a283c17e4c07527d4d7afba8e7fdca0f32908294
