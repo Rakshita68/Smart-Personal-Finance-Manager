@@ -1,0 +1,16 @@
+[
+    {
+        "amount": 2000,
+        "date": "2025-02-23",
+        "category": "Health",
+        "description": "Gym membership",
+        "id": 1
+    },
+    {
+        "amount": 150,
+        "date": "2026-06-11",
+        "category": "Food",
+        "description": "Lunch",
+        "id": 2
+    }
+]
